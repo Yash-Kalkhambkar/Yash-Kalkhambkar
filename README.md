@@ -50,11 +50,12 @@ Some measurable work:
 
 I also enjoy competitive programming and algorithmic problem solving.
 
-**LeetCode Rating:** `1500+`
+**LeetCode Rating:** `1600+`
 
 Currently working through:
 
 `Arrays` → `Hashing` → `Binary Search` → `Trees` → `Graphs` → `Dynamic Programming`
+
 
 ---
 
